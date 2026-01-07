@@ -1,0 +1,5 @@
+{
+  "name": "Visual Gantt Planner",
+  "description": "A high-performance project management tool to convert raw scopes into interactive Gantt charts with CSV import and PDF export capabilities.",
+  "requestFramePermissions": []
+}
